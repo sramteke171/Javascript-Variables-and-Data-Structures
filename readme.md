@@ -114,7 +114,7 @@ answer goes here
 > ##### For Questions 9 & 10 use the code example below:
 
 ```HTML
-<!-- html stuff above... -->
+<!-- ...html stuff above -->
 <body>
   <div id="dog-resume">
     <ul class="skillz">
@@ -126,6 +126,7 @@ answer goes here
     </ul>
   </div>
 </body>
+<!-- html stuff below... -->
 ```
 
 ### Question 9
