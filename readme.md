@@ -111,9 +111,27 @@ answer goes here
 
 ---
 
+> ##### For Questions 9 & 10 use the code example below:
+
+```HTML
+<!-- html stuff above... -->
+<body>
+  <div id="dog-resume">
+    <ul class="skillz">
+      <li> - Bone Location</li>
+      <li> - Remote Sniffing</li>
+      <li> - Delineating Territory</li>
+      <li> - Shoe Deconstruction </li>
+      <li> - Carpet Stain Placement </li>
+    </ul>
+  </div>
+</body>
+```
+
 ### Question 9
 
 Write a CSS selector-rule that will select and apply styling to an element with an id of `dog-resume`:
+
 
 ```
 answer goes here
