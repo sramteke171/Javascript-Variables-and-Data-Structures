@@ -16,7 +16,7 @@ answer goes here
 
 ---
 
->  ***For questions 2-4, use the code below to answer questions 2 through 4.***
+>  ***For questions 2-5, use the code below to answer questions 2 through 4.***
 
 ```js
 var names = ["Jonas", "Inigo Montoya", "Slim Shady", "Mr. Robot"];
@@ -43,7 +43,6 @@ answer goes here
 ```
 
 ---
-
 ### Question 3
 
 Write a for loop such that you say hello(using `console.log`) to each name in the `names` array
@@ -64,10 +63,26 @@ answer goes here
 ```
 
 ---
+### Question 5
+
+Set a new property on the object stored in the variable clown. Make it anything you want!
+
+```js
+
+```
+
+---
+### Question 6
+Write a function that takes an array as an argument and returns the array's first value
+
+```js
+answer goes here
+```
+---
 
 ## Git & GitHub
 
-### Question 5
+### Question 7
 
 What is Git, what problem does it solve? What is the difference between `git` and github?
 
@@ -78,7 +93,7 @@ answer goes here
 
 ---
 
-### Question 6
+### Question 8
 
 What is the difference between a fork and a clone?
 
@@ -91,17 +106,9 @@ answer goes here
 
 ## HTML & CSS
 
-### Question 7
-
-What does every HTML file need to be recognized as such? In other words, what do you need in each HTML file for it to be valid HTML?
-
-```
-answer goes here
-```
-
 ---
 
-### Question 8
+### Question 9
 
 How would you link a css file entitled, `hardstyle.css` in an html file?
 
@@ -111,7 +118,7 @@ answer goes here
 
 ---
 
-> ##### For Questions 9 & 10 use the code example below:
+> ##### For Questions 10 & 11 use the code example below:
 
 ```HTML
 <!-- ...html stuff above -->
@@ -129,7 +136,7 @@ answer goes here
 <!-- html stuff below... -->
 ```
 
-### Question 9
+### Question 10
 
 Write a CSS selector-rule that will select and apply styling to an element with an id of `dog-resume`:
 
@@ -140,7 +147,7 @@ answer goes here
 
 ---
 
-### Question 10
+### Question 11
 
 Write a CSS selector-rule that will select and apply styling to every `<li>` inside of a `<ul>`:
 
