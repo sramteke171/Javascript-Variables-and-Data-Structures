@@ -2,6 +2,8 @@
 
 > **Fork and clone this repo and follow the directions below.**
 
+Please reference [this document](https://git.generalassemb.ly/jdr-0127/homework-submissions/blob/master/README.md) for more information on how to submit this checkpoint.
+
 For the following exercise, there will be a series of questions or directions followed by `answer goes here`. You'll replace `answer goes here` with your answer between the triple back ticks ( \`\`\` ). When you're done, submit this updated file as a pull request to this repo.
 
 ## Javascript Variables and Data Structures
