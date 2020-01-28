@@ -2,9 +2,7 @@
 
 > **Fork and clone this repo and follow the directions below.**
 
-For the following quiz, there will be a series of questions or directions followed by `answer goes here`. You'll replace `answer goes here` with your answer between the triple back ticks ( \`\`\` ). When you're done, submit this updated file as a pull request to this repo.
-
-Please reference [this document](https://github.com/ga-dc/wdi16/blob/master/homework-policy.md#the-submission-process) for more information on how to submit this checkpoint.
+For the following exercise, there will be a series of questions or directions followed by `answer goes here`. You'll replace `answer goes here` with your answer between the triple back ticks ( \`\`\` ). When you're done, submit this updated file as a pull request to this repo.
 
 ## Javascript Variables and Data Structures
 
@@ -18,11 +16,11 @@ Create a variable and store the string "pizza" in it...
 
 ---
 
->  **For questions 2-5, use the code below to answer questions 2 through 4.**
+>  **For questions 2-5, use the code below.**
 
 ```js
-var names = ["Jonas", "Inigo Montoya", "Slim Shady", "Mr. Robot"];
-var clown = {
+let names = ["Jonas", "Inigo Montoya", "Slim Shady", "Mr. Robot"];
+let clown = {
   name: "Joker",
   evil: true,
   minions: ["Bozo", "Harley Quinn", "Grumpy", "Chuckles"],
