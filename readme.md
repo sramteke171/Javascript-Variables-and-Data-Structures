@@ -1,4 +1,4 @@
-# Checkpoint 00
+# Checkpoint 01
 
 > **Fork and clone this repo and follow the directions below.**
 
