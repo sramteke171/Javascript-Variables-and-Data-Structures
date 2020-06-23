@@ -50,11 +50,12 @@ Write a for loop that prints `hello NAME` to the console. `NAME` should be repla
 
 ```js
 // Answer goes here...
-for (let i=0; i<names.length(); i++)
+
+for (let i=0; i<names.length; i++)
 {
-console.log(names[i]);
+console.log("HELLO"+ names[i]);
 }
-```
+
 
 ### Question 4
 
