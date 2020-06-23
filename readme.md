@@ -114,6 +114,7 @@ clone is copying the code to local repository s that we can update it
 ```
 # Answer goes here...
 ```
+Forking is just containing a separate copy of the repository and there is no command involved. Cloning is done through the command 'git clone' and it is a process of receiving all the code files to the local machine
 
 ---
 
