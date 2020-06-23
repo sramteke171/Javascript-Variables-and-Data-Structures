@@ -125,7 +125,7 @@ How would you link a CSS file entitled `hardstyle.css` in an HTML file?
 
 ```html
 <!-- Answer goes here... -->
-<link="css file" rel="stylesheet" type="css">
+<link="hardstyle.css" rel="stylesheet" type="css">
 ```
 
 ---
